@@ -1,5 +1,5 @@
 {
   "extends": [
-    "github>yamaguchi-tk/renovate-config"
+    "local>yamaguchi-tk/renovate-config"
   ]
 }
