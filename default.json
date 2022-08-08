@@ -1,0 +1,14 @@
+{
+  "description": "Default presets for organization.",
+  "extends": [
+    "config:base",
+    ":separateMultipleMajorReleases",
+    "github>yamaguchi-tk/renovate-config:disableAutoRebase"
+  ],
+  "labels": [
+    "renovate"
+  ],
+  "postUpdateOptions": [
+    "gomodTidy"
+  ]
+}

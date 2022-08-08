@@ -1,0 +1,4 @@
+{
+  "description": "A presets for disable auto rebase.",
+  "rebaseWhen": "never"
+}

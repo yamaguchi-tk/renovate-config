@@ -1,0 +1,6 @@
+{
+  "description": "A presets for scheduling renovate.",
+  "extends": [
+    ":timezone(Asia/Tokyo)"
+  ]
+}
